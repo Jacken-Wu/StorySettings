@@ -4,4 +4,4 @@
 My own story's settings, which will be used in my comic creation. You can make fan works on the basis of them. Commercial use prohibited.  
 
 * [AN](./AN/目录.md)
-
+* [StoneSummoner](./StoneSummoner/目录.md)
